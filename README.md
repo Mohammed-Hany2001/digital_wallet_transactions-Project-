@@ -6,7 +6,7 @@ This project is an exploratory data analysis (EDA) of 5,000 digital wallet trans
 
 ## 🖼️ Project Screenshot
 
-![Dashboard Screenshot](screenshots/dashboard_sample.png)
+![Dashboard Screenshot](8.PNG)
 
 > Replace `8.PNG` with your actual screenshot path.  
 > Create a folder named `8.PNG` in your repo and upload the image there.
