@@ -8,7 +8,7 @@ This project is an exploratory data analysis (EDA) of 5,000 digital wallet trans
 
 ![Dashboard Screenshot](screenshots/dashboard_sample.png)
 
-> Replace `screenshots/dashboard_sample.png` with your actual screenshot path.  
+> Replace `8.PNG` with your actual screenshot path.  
 > Create a folder named `screenshots` in your repo and upload the image there.
 
 ---
